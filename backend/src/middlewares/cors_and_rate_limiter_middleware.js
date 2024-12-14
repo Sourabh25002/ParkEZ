@@ -1,4 +1,3 @@
-// middleware/corsAndRateLimiter.js
 import cors from "cors"; // Enable Cross-Origin Resource Sharing
 import rateLimit from "express-rate-limit"; // Rate limiting middleware
 
